@@ -7,7 +7,7 @@
 #
 Name     : pypi-altair
 Version  : 5.5.0
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/16/b1/f2969c7bdb8ad8bbdda031687defdce2c19afba2aa2c8e1d2a17f78376d8/altair-5.5.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/16/b1/f2969c7bdb8ad8bbdda031687defdce2c19afba2aa2c8e1d2a17f78376d8/altair-5.5.0.tar.gz
 Summary  : Vega-Altair: A declarative statistical visualization library for Python.
